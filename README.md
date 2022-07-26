@@ -1,6 +1,6 @@
 # Food_Ordering_System
 A project on C++ with functionalities like login, signup, order by food, order by hotel, cart, order history to implement the food ordering system. MYSQL database is used for storing and retrieving the data. <br>
- For connecting database in c++ with XAMPP server we need some files and they are,
+ For connecting database in c++ with XAMPP server we need some files and they are,<br>
  * libmysql.dll
  * libmysql.a
  * mysql header files <br>
